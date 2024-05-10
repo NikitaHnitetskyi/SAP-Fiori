@@ -5,4 +5,4 @@ sap.ui.define([
  
     return Controller.extend("ui5.walkthrough.controller.App", {
     });
- });
+ });  
